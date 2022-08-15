@@ -8,3 +8,9 @@ To setup the badge for development:
 2. Open the .ino file in Arduino.
 3. Choose the correct USB port
 4. Run Upload to upload the game to the Arduino.
+
+## Resources
+
+- [Fri3d Camp 2020 Arduino badge repository](https://github.com/Fri3dCamp/Badge2020_arduino) — main badge repo
+- [Adafruit GFX Graphics Library](https://learn.adafruit.com/adafruit-gfx-graphics-library) — library for drawing things on screen
+- [image2cpp](https://javl.github.io/image2cpp/) — convert images to byte arrays, useful for including graphics
